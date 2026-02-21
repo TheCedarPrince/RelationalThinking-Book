@@ -12,10 +12,6 @@ kernelspec:
 
 # Chapter 0: Directed Graphs
 
-:::{note}
-This book is a work-in-progress! We'd love to learn how we can make it better, especially regarding fixing typos or sentences that are unclear to you. Please consider leaving any feedback, comments, or observations about typos in [this google doc](https://docs.google.com/document/d/1MvhNuap0QLMAfrMQLIAxbclBx0vjt6vyK8BhVhLwFoQ/edit).
-:::
-
 ## 0.1 What is a directed graph?
 
 
